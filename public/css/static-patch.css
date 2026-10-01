@@ -1,0 +1,5 @@
+/* added during static migration */
+.footer__widget .footer__newslatter .newsletter-mailto{display:inline-block;color:#fff;font-size:15px;padding:10px 0;border-bottom:2px solid #fff;text-decoration:none}
+.footer__widget .footer__newslatter .newsletter-mailto:hover{color:#b7b7b7}
+.contact-mailto p{margin-bottom:20px}
+.contact-mailto a:not(.site-btn){text-decoration:underline}
