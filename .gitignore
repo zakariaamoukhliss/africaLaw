@@ -1,0 +1,9 @@
+# Large documents live on Cloudflare R2 (files.africa-laws.org), never in this repo
+downloads/
+africa-laws-crawl/
+../africa-laws-crawl/
+
+# local junk
+.DS_Store
+*.log
+__pycache__/
